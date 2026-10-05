@@ -1,0 +1,11 @@
+{
+  "name": "Between the Lights",
+  "short_name": "Between the Lights",
+  "description": "Un paseo hasta Valdeluz",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "background_color": "#1b1a24",
+  "theme_color": "#1b1a24"
+}
